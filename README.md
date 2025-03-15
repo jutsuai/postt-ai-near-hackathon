@@ -117,6 +117,7 @@ Licensed under [MIT License](LICENSE)
 
 ## 🖥️ Demo Materials
 
+- [Pitch Deck](https://www.canva.com/design/DAGhzmDkH7c/0ggMe6LsZUBBJLyAG6pkNg/edit?utm_content=DAGhzmDkH7c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - [Live Demo](https://app.postt.ai)
 - [1st Screenshots ](./screenshots/1.png)
 - [2nd Screenshots](./screenshots/2.png)
