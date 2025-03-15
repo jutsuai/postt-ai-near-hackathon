@@ -103,7 +103,7 @@ Detailed benchmark runs and analysis will be released very soon.
 
 ## 🔑 Licensing
 
-Licensed under [MIT License](LICENSE.md)
+Licensed under [MIT License](LICENSE)
 
 ---
 
