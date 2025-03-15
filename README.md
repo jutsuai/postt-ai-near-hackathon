@@ -120,7 +120,6 @@ Licensed under [MIT License](LICENSE)
 - [Live Demo](https://app.postt.ai)
 - [1st Screenshots ](./screenshots/1.png)
 - [2nd Screenshots](./screenshots/2.png)
-- [Test Accounts and Sample Data](./docs/sample_data.json)
 
 ---
 
@@ -130,7 +129,7 @@ Licensed under [MIT License](LICENSE)
 | -------------- | ----------------------------- | ----------------------------------------------------- |
 | Zahidul Islam  | Founder & CEO                 | [zahid@jutsu.ai](mailto:zahid@jutsu.ai)               |
 | Saidul Badhon  | Full-Stack Developer          | [saidulbadhon@jutsu.ai](mailto:saidulbadhon@jutsu.ai) |
-| Adnan Siddique | Frontend Developer            | [adnan@jutsu.ai](mailto:adnan@jutsu.ai)               |
+| Adnan Siddiqui | Frontend Developer            | [adnan@jutsu.ai](mailto:adnan@jutsu.ai)               |
 | Souheila S.    | AI product Manager & Designer | [souheila@jutsu.ai](mailto:souheila@jutsu.ai)         |
 
 ---
